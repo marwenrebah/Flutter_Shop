@@ -1,6 +1,6 @@
 # Hi 👨🏻‍💻, I'm Marwen Rebah
 <div align="center">
-  <img src="https://github.com/marwenrebah/Flutter_Shop/assets/banner.png" alt="banner!"/>
+  <img src="https://github.com/marwenrebah/Flutter_Shop/blob/main/assets/banner.png" alt="banner!"/>
 </div>
 # Flutter Shop
 
