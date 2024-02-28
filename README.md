@@ -1,6 +1,6 @@
 # Hi 👨🏻‍💻, I'm Marwen Rebah
 <div align="center">
-  <img src="https://github.com/marwenrebah/holbertonschool-printf/assets/133456502/9e798d95-b20e-4d86-9dbc-c3b3d57a9d35" alt="Printf!"/>
+  <img src="https://github.com/marwenrebah/Flutter_Shop/assets/banner.png" alt="banner!"/>
 </div>
 # Flutter Shop
 
@@ -54,6 +54,8 @@ Flutter Shop is a reflection of my journey into Dart and Flutter, capturing the 
 
 Happy coding! 🚀
 Feel free to copy and paste this code into your README file.
+
+## ❤️ Acknowledgments
 
 ## 👥 Author
 🚀 Marwen Rebah<br>
