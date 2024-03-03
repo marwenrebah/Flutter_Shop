@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/marwenrebah/Flutter_Shop/blob/main/assets/banner.png" alt="banner!"/>
 </div>
-# Flutter Shop
+## Flutter Shop
 
 Welcome to Flutter Shop, my first project on the exciting journey of learning Dart and exploring the Flutter framework. This project represents my efforts to dive into mobile app development, experimenting with new concepts and applying the skills acquired along the way.
 
@@ -28,13 +28,34 @@ Flutter Shop is a simple mobile app designed to showcase the fundamentals of Dar
 
 The project follows a modular structure with distinct directories for different aspects of the app:
 
-- **lib**: Contains Dart code for the app.
-  - **models**: Data models for the application.
-  - **screens**: Different screens of the app (product list, product details, cart).
-  - **widgets**: Reusable UI components.
-  - **services**: Code for handling API requests and other services.
-  - **utils**: Utility functions and helpers.
-  - **main.dart**: Entry point of the application.
+my_first_flutter_app/
+│
+├── lib/
+│   ├── components/
+│   │   ├── bottom_nav_bar.dart
+│   │   ├── cart_item.dart
+│   │   └── toy_models.dart
+│   │
+│   ├── images/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── ...
+│   │
+│   ├── models/
+│   │   ├── cart.dart
+│   │   └── toys.dart
+│   │
+│   ├── pages/
+│   │   ├── cart_page.dart
+│   │   ├── home_page.dart
+│   │   ├── intro_page.dart
+│   │   └── shop_page.dart
+│   │
+│   └── main.dart
+│
+└── ...
+
+
 
 ## Getting Started
 
