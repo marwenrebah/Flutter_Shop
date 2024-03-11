@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://github.com/marwenrebah/Flutter_Shop/blob/main/assets/banner.png" alt="banner!"/>
 </div>
-# Flutter Shop
+
+## Flutter Shop
 
 Welcome to Flutter Shop, my first project on the exciting journey of learning Dart and exploring the Flutter framework. This project represents my efforts to dive into mobile app development, experimenting with new concepts and applying the skills acquired along the way.
 
