@@ -7,7 +7,7 @@
 
 This project marks my first venture into mobile app development with Flutter and Dart. It has been an exciting journey filled with learning, challenges, and growth.
 
-## Overview ℹ️
+## Overview ⌨️
 
 This Flutter project is a simple e-commerce mobile application that allows users to browse through a collection of toys, add them to a shopping cart, and make purchases. The app consists of multiple screens, including a home page, a shopping page, a cart page, and an introductory page.
 
@@ -23,17 +23,18 @@ Learning Dart, the programming language used for Flutter development, presented 
 
 - **UI Design**: Designing intuitive and visually appealing user interfaces required a combination of design principles and Flutter's widget system. Balancing aesthetics with functionality while ensuring a consistent user experience across screens demanded careful attention to detail.
 
-## Lessons Learned 📚
+## Lessons Learned 📝
 
-- **Practice Makes Perfect**: Consistent practice and hands-on experimentation were essential for solidifying my understanding of Dart and Flutter. Building small projects and experimenting with different widgets and features helped reinforce concepts and improve my skills.
+- **Consistent Practice**: Engaging in consistent practice and hands-on experimentation was crucial for solidifying my understanding of Dart and Flutter. Building small projects and experimenting with different widgets and features helped reinforce concepts and improve my skills.
 
-- **Community Support**: Leveraging the vast Flutter community through forums, documentation, and online tutorials proved invaluable. Learning from others' experiences, seeking help when stuck, and contributing back to the community enhanced my learning journey.
+- **Community Engagement**: Leveraging the vast Flutter community through forums, documentation, and online tutorials proved invaluable. Learning from others' experiences, seeking help when stuck, and actively contributing back to the community enhanced my learning journey.
 
-- **Iterative Development**: Adopting an iterative development approach allowed me to incrementally improve the app's features and functionality. Embracing feedback, iterating on designs, and refactoring code helped enhance the app's quality and performance over time.
+- **Iterative Approach**: Adopting an iterative development approach allowed me to incrementally improve the app's features and functionality. Embracing feedback, iterating on designs, and refactoring code helped enhance the app's quality and performance over time.
 
-## Future Steps 🔮
+## Future Steps 🚀
 
 Despite the challenges, my first Flutter project has been an immensely rewarding experience. Moving forward, I plan to continue exploring advanced Flutter concepts, experimenting with state management solutions, and building more complex applications. Each step forward brings new opportunities for learning and growth in the exciting world of Flutter development.
+
 
 ## 👥 Author
 🚀 Marwen Rebah<br>
